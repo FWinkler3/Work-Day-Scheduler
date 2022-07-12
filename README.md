@@ -1,4 +1,5 @@
-## Work Day Scheduler Starter Code
+## Work Day Scheduler
+With this application, an individual is able to log events in a daily planner that will be color coded to indicate past, present and future. 
 
 ## User Story
 
@@ -6,18 +7,23 @@ AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 
-## Acceptance Criteria
+## Description
 
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with time blocks for standard business hours
-WHEN I view the time blocks for that day
-THEN each time block is color-coded to indicate whether it is in the past, present, or future
-WHEN I click into a time block
-THEN I can enter an event
-WHEN I click the save button for that time block
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
+In this application, a user is presented with a daily scheduler which will help let them input tasks and plan their day accordingly. Each hour is color-coded, with gray representing tasks in the past, red as the current hour and green as any future hours. Even if the user leaves the page or refreshes it, the tasks will still remain. 
+
+## Screenshot of Deployed Application
+<img src="Image1.png">
+This image shows the Work Day Scheduler with the current date. 
+
+<img src="Image2.png">
+This image shows the color-coding of time blocks to indicate past, present and future. 
+
+## Link to Deployed Application
+GitHub: 
+
+## Contact Info
+Frank Winkler III
+<br>
+GitHub : https://github.com/FWinkler3 
+<br>
+Email: frank.w.winkler@gmail.com 
